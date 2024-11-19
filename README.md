@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+now using thsi piece of code you can make a clone to whatsapp and then 
+make changes as you want just learn the concepts from here...
+HAPPY CODING!
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
